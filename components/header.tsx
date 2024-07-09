@@ -58,7 +58,7 @@ function Header() {
                         className="py-8 px-3 text-xs uppercase font-bold hover:text-[#5c4019]">vn/en</Link>
                     <Link href='#'
                         className="py-8 px-3">
-                        <button className="py-[10px] px-5 w-[150px] h-10 text-xs uppercase font-bold text-white bg-[#927A58] hover:bg-[#d8ba8e] rounded-sm flex items-center justify-between">
+                        <button className="py-[10px] px-5 w-[150px] h-10 text-xs uppercase font-bold text-white bg-btn hover:bg-[#d8ba8e] rounded-sm flex items-center justify-between">
                             <span className="mr-2">
                                 <FaCalendarAlt />
                             </span>đặt phòng<span>
