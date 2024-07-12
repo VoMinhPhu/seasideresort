@@ -1,4 +1,4 @@
-import { Banner, BookResortRoom } from "@/components"
+import { Banner, BookResortRoom, ReviewSeasider } from "@/components"
 
 
 
@@ -7,7 +7,7 @@ export default function Home() {
     <main>
       <Banner />
       <BookResortRoom />
-      <div className="h-[300px] bg-slate-400"></div>
+      <ReviewSeasider />
     </main >
   );
 }

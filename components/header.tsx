@@ -35,7 +35,7 @@ function Header() {
                         />
                     </div>
                 </div>
-                <div className={`flex-1 flex items-center ${colorHeader === 'bg-transperents' ? 'text-white' : ''}`}>
+                <div className={`flex-1 flex items-center justify-between tracking-[0.75px] ${colorHeader === 'bg-transperents' ? 'text-white' : ''}`}>
                     <Link href='#'
                         className="py-8 px-3 text-xs uppercase font-bold hover:text-[#5c4019]">giới thiệu</Link>
                     <Link href='#'
